@@ -25,3 +25,5 @@ Markdown   15 mins         ██▒░░░░░░░░░░░░░░�
 Lua        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 ```
 <!--END_SECTION:waka-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon)](https://github.com/dr-dargon/github-readme-stats)
