@@ -14,7 +14,9 @@ jobs:
     name: Update coding status this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: eternidad33/waka-readme-stats@master
+      - uses: dr-dargon/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_EDITORS: true
+          SHOW_OS: true
