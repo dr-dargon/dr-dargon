@@ -11,6 +11,6 @@ jobs:
     name: Update coding status this repo's README
     runs-on: ubuntu-latest
     steps:
-      - uses: dr-dargon/dr-dargon@master
+      - uses: dr-dargon/dr-dargon@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
