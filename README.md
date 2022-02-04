@@ -1,4 +1,7 @@
-### Hi there 👋
+<h2 align="center">👋 Hello! I'm darg0n.</h2>
+<p align="center">
+  
+</p>
 
 <!--
 **dr-dargon/dr-dargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
