@@ -19,6 +19,11 @@ Here are some ideas to get you started:
 -->
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
+```text
+Markdown     11 mins         ███████████▒░░░░░░░░░░░░░   45.83 % 
+JavaScript   10 mins         ██████████░░░░░░░░░░░░░░░   40.65 % 
+JSON         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon)](https://github.com/dr-dargon/github-readme-stats) -->
