@@ -28,5 +28,4 @@ JSON         3 mins          ███▒░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon)](https://github.com/dr-dargon/github-readme-stats) -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon)](https://github.com/dr-dargon)
