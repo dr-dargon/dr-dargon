@@ -1,23 +1,13 @@
 <h2>👋 Hello! I'm darg0n.</h2>
 
---------
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=dr-dargon&show_icons=true&theme=buefy">](https://github.com/dr-dargon)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dargon&layout=compact">](https://github.com/dr-dargon)]
 
-<!--
-**dr-dargon/dr-dargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-   :hammer_and_pick: golang / PHP / Vue
+-   :man: Pronouns: he/him
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-📊 **Weekly development breakdown**
+#### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 ```text
 Week: 29 January, 2022 - 04 February, 2022
@@ -27,20 +17,4 @@ JavaScript   10 mins         ██████████░░░░░░░
 JSON         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
 ```
 <!--END_SECTION:waka-->
-
---------
- 
-😄 **GitHub stats**
-
-<br>
-
-[![darg0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon&show_icons=true&theme=buefy)](https://github.com/dr-dargon)
-  
---------
-
-💬 **GitHub stats**
-
-<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dargon&layout=compact)](https://github.com/dr-dargon)
   
