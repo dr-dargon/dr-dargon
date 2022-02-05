@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
+Week: 29 January, 2022 - 04 February, 2022
+
 Markdown     11 mins         ███████████▒░░░░░░░░░░░░░   45.83 % 
 JavaScript   10 mins         ██████████░░░░░░░░░░░░░░░   40.65 % 
 JSON         3 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.51 % 
