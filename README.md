@@ -1,7 +1,6 @@
-<h2 align="center">👋 Hello! I'm darg0n.</h2>
-<p align="center">
-  
-</p>
+<h2>👋 Hello! I'm darg0n.</h2>
+
+--------
 
 <!--
 **dr-dargon/dr-dargon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,10 +28,12 @@ JSON         3 mins          ███▒░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 --------
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon&show_icons=true&theme=buefy)](https://github.com/dr-dargon)
+ 
+😄 **GitHub stats**
+[![darg0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon&show_icons=true&theme=buefy)](https://github.com/dr-dargon)
   
 --------
 
+💬 **GitHub stats**
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dargon&layout=compact)](https://github.com/dr-dargon)
   
