@@ -31,12 +31,16 @@ JSON         3 mins          ███▒░░░░░░░░░░░░░
 --------
  
 😄 **GitHub stats**
+
 <br>
+
 [![darg0n's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-dargon&show_icons=true&theme=buefy)](https://github.com/dr-dargon)
   
 --------
 
 💬 **GitHub stats**
+
 <br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-dargon&layout=compact)](https://github.com/dr-dargon)
   
