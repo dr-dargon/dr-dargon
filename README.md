@@ -37,7 +37,7 @@
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 ```text
-Week: 01 February, 2022 - 07 February, 2022
+Week: 02 February, 2022 - 08 February, 2022
 
 Markdown     1 hr 12 mins    ██████████░░░░░░░░░░░░░░░   39.66 % 
 Go           1 hr 11 mins    █████████▓░░░░░░░░░░░░░░░   39.27 % 
