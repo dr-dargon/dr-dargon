@@ -37,13 +37,13 @@
 #### :bar_chart: [Monthly coding time](https://github.com/muety/wakapi)
 <!--START_SECTION:waka-->
 ```text
-Week: 04 February, 2022 - 10 February, 2022
+Week: 05 February, 2022 - 11 February, 2022
 
-Go           2 hrs 29 mins   ██████████████▒░░░░░░░░░░   57.20 % 
-Markdown     1 hr 13 mins    ███████░░░░░░░░░░░░░░░░░░   28.20 % 
-JSON         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-JavaScript   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Rust         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Go           8 hrs 53 mins   ███████████████████▓░░░░░   78.00 % 
+Markdown     1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+JSON         35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+TypeScript   20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+JavaScript   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
 ```
 <!--END_SECTION:waka-->
   
