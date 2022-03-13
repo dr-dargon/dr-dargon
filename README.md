@@ -38,10 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 March 2022 - To: 11 March 2022
+From: 05 March 2022 - To: 12 March 2022
 
-Go           4 hrs 19 mins   ██████████████████▓░░░░░░   74.03 %
-Other        38 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.09 %
+Go           7 hrs 56 mins   █████████████████████░░░░   83.86 %
+Other        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
 ```
 
 <!--END_SECTION:waka-->
