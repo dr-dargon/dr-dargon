@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
 Go           7 hrs 56 mins   █████████████████████░░░░   83.86 %
 Other        38 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
