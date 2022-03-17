@@ -38,11 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 March 2022 - To: 15 March 2022
+From: 09 March 2022 - To: 16 March 2022
 
-Go           7 hrs 58 mins   █████████████████░░░░░░░░   68.38 %
-TypeScript   2 hrs 4 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Other        38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
+Go           6 hrs 11 mins   ███████████████▒░░░░░░░░░   61.76 %
+TypeScript   3 hrs 21 mins   ████████▒░░░░░░░░░░░░░░░░   33.57 %
+YAML         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+SQL          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Vue.js       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
