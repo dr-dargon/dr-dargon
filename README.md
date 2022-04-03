@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
+From: 26 March 2022 - To: 02 April 2022
 
 Vue.js       4 hrs 32 mins   █████████████████████▓░░░   86.09 %
 TypeScript   29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.35 %
