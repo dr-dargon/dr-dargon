@@ -38,7 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 12 April 2022 - To: 19 April 2022
+
+Markdown   0 secs          ██████████████▒░░░░░░░░░░   56.68 %
+JSON       0 secs          ██████████▓░░░░░░░░░░░░░░   43.32 %
+Vue.js     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
