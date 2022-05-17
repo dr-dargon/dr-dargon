@@ -38,9 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 15 May 2022
+From: 09 May 2022 - To: 16 May 2022
 
-Python   0 secs          █████████████████████████   100.00 %
+Vue.js       37 mins         █████████░░░░░░░░░░░░░░░░   35.67 %
+JSON         35 mins         ████████▒░░░░░░░░░░░░░░░░   33.35 %
+TypeScript   20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+Other        4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
 ```
 
 <!--END_SECTION:waka-->
