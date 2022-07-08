@@ -38,14 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 June 2022 - To: 06 July 2022
+From: 30 June 2022 - To: 07 July 2022
 
-Vue.js       2 hrs 31 mins   ██████████████▒░░░░░░░░░░   57.53 %
-Markdown     1 hr 21 mins    ███████▓░░░░░░░░░░░░░░░░░   31.13 %
-TypeScript   29 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
-LESS         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript   1 hr 50 mins    █████████████▓░░░░░░░░░░░   54.63 %
+Markdown     1 hr 4 mins     ████████░░░░░░░░░░░░░░░░░   31.83 %
+Vue.js       27 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.54 %
 ```
 
 <!--END_SECTION:waka-->
