@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 July 2022 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Go                         9 hrs 51 mins   █████████░░░░░░░░░░░░░░░░   35.76 %
-TypeScript                 7 hrs 47 mins   ███████░░░░░░░░░░░░░░░░░░   28.24 %
-Vue.js                     5 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   19.64 %
-JavaScript                 2 hrs 34 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Markdown                   48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
-Other                      39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Vue.js                     8 hrs 28 mins   ████████▒░░░░░░░░░░░░░░░░   33.43 %
+TypeScript                 7 hrs 12 mins   ███████░░░░░░░░░░░░░░░░░░   28.44 %
+Go                         5 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.61 %
+JavaScript                 2 hrs 28 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+Markdown                   47 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Other                      40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.64 %
 ```
 
 <!--END_SECTION:waka-->
