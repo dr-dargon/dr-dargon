@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
+From: 07 August 2022 - To: 14 August 2022
 
 Go           5 hrs 23 mins   █████████████████░░░░░░░░   67.49 %
 TypeScript   1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
