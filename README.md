@@ -38,11 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 August 2022 - To: 31 August 2022
+From: 25 August 2022 - To: 01 September 2022
 
-Go           18 hrs 21 mins  ██████████████████████░░░   88.07 %
-Markdown     1 hr 40 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-Other        19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Go           22 hrs          ██████████████████████░░░   87.34 %
+Markdown     1 hr 40 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+HTML         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
+Other        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
