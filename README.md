@@ -38,11 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 September 2022 - To: 05 October 2022
-
-Go           3 hrs 27 mins   ███████████████▓░░░░░░░░░   62.37 %
-Vue.js       1 hr 58 mins    █████████░░░░░░░░░░░░░░░░   35.48 %
-Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
