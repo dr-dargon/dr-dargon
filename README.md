@@ -38,14 +38,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 03 October 2022 - To: 10 October 2022
+From: 04 October 2022 - To: 11 October 2022
 
-Vue.js            9 hrs 36 mins   ████████████████▓░░░░░░░░   66.04 %
-Go                2 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   19.62 %
-JavaScript        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
-Markdown          48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
-Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Vue.js            12 hrs 12 mins  █████████████████▓░░░░░░░   71.21 %
+Go                2 hrs 51 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.63 %
+JavaScript        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
+Markdown          48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
+Protocol Buffer   22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Other             2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
 ```
 
 <!--END_SECTION:waka-->
