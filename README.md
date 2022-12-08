@@ -38,12 +38,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 November 2022 - To: 06 December 2022
+From: 30 November 2022 - To: 07 December 2022
 
-Go           4 hrs 24 mins   ███████████████▓░░░░░░░░░   62.15 %
-Vue.js       2 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.29 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
-YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Go           6 hrs 27 mins   ███████████████▓░░░░░░░░░   63.16 %
+Vue.js       3 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   35.49 %
+JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+YAML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->
