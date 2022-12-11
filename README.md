@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 December 2022 - To: 09 December 2022
+From: 03 December 2022 - To: 10 December 2022
 
 Go           8 hrs 15 mins   ███████████████░░░░░░░░░░   60.06 %
 Vue.js       5 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.80 %
