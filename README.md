@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 24 December 2022
+From: 18 December 2022 - To: 25 December 2022
 
 Vue.js       7 hrs 25 mins   █████████████▓░░░░░░░░░░░   54.73 %
 TypeScript   2 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
