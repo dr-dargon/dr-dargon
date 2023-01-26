@@ -38,12 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 January 2023 - To: 24 January 2023
-
-JavaScript   26 mins         ███████████████████████░░   91.86 %
-JSON         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
-TypeScript   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
