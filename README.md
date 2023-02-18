@@ -38,12 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 February 2023 - To: 16 February 2023
+From: 10 February 2023 - To: 17 February 2023
 
-Vue.js       5 hrs 31 mins   █████████████████░░░░░░░░   68.24 %
-JavaScript   2 hrs 29 mins   ███████▓░░░░░░░░░░░░░░░░░   30.75 %
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Vue.js       5 hrs 19 mins   ████████████████████████▒   97.82 %
+JavaScript   7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
