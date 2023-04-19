@@ -38,11 +38,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Vue.js       1 hr 50 mins    ███████████▒░░░░░░░░░░░░░   45.59 %
-TypeScript   28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.80 %
-Other        26 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
+Vue.js       40 mins         █████████░░░░░░░░░░░░░░░░   35.42 %
+Other        26 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
 ```
 
 <!--END_SECTION:waka-->
