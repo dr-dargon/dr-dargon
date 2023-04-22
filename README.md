@@ -38,10 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 April 2023 - To: 20 April 2023
+From: 14 April 2023 - To: 21 April 2023
 
-Vue.js       29 mins         ████████▓░░░░░░░░░░░░░░░░   34.25 %
-Other        26 mins         ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
