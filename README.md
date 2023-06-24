@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2023 - To: 21 June 2023
+From: 16 June 2023 - To: 23 June 2023
 
 No activity tracked
 ```
